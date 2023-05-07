@@ -2076,7 +2076,7 @@ fieldset[disabled] .button.is-danger.is-outlined {
 .tag:not(body).is-medium,
 .tags.are-medium .tag:not(.is-normal):not(.is-large),
 .title.is-6 {
-    font-size: 1rem
+    font-size: 12px
 }
 
 .breadcrumb.is-medium,
@@ -2717,6 +2717,12 @@ fieldset[disabled] .button {
     height: 128px;
     width: 128px
 }
+
+.image.is-150x150 {
+    height: 150px;
+    width: 150px
+}
+
 
 .notification {
     background-color: #f5f5f5;
